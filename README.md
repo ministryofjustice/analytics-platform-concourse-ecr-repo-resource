@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/mojanalytics/concourse-ecr-resource/status "Docker Repository on Quay")](https://quay.io/repository/mojanalytics/concourse-ecr-resource)
+
 # ECR Repository Resource
 
 Provides a Concourse resource to create AWS ECR repositories. Used to create a
