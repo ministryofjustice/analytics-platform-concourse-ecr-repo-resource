@@ -36,7 +36,7 @@ resource_types:
 - name: ecr-repo
   type: docker-image
   source:
-    repository: quay.io.mojanalytics/concourse-ecr-resource
+    repository: quay.io/mojanalytics/concourse-ecr-resource
     tag: 0.1.0
 
 resources:
